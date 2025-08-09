@@ -41,7 +41,7 @@
     ### Clone the Repository
 
      ```bash
-     git clone https://github.com/NetrumLabs/netrum-lite-node.git
+     [git clone https://github.com/Opeyemi76443014/netrum-lite-node.git]
      ```
      
     ###  Navigate to Project Directory
